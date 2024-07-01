@@ -19,7 +19,7 @@ st.title("DocumentGPT")
 
 st.markdown(
     """
-    <span style="font-size: 23px;">Welcome! Use this chatbot to ask questions to Leah about your files! Upload your documents on the sidebar.</span>
+    <span style="font-size: 23px;">Welcome! Use this chatbot to ask questions about your files! Upload your documents on the sidebar.</span>
     """,
     unsafe_allow_html=True,
 )
