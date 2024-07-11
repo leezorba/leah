@@ -30,7 +30,9 @@ In summary, while there is some evidence suggesting that Joseph Smith may have a
 
 Sources:
 [1] https://rsc.byu.edu/no-weapon-shall-prosper/did-joseph-smith-translate-kinderhook-plates
+
 [2] https://www.fairlatterdaysaints.org/answers/Kinderhook_Plates
+
 [3] https://www.fairlatterdaysaints.org/answers/File:Kinderhook.plates.don.bradley.description.jpg
 
 
