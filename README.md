@@ -29,6 +29,7 @@ Further complicating the matter, two eyewitnesses later confessed that the plate
 In summary, while there is some evidence suggesting that Joseph Smith may have attempted to translate the Kinderhook Plates, the strongest evidence indicates that the plates were a hoax and that any translation attributed to him was likely based on hearsay or misinterpretation.
 
 Sources:
+
 [1] https://rsc.byu.edu/no-weapon-shall-prosper/did-joseph-smith-translate-kinderhook-plates
 
 [2] https://www.fairlatterdaysaints.org/answers/Kinderhook_Plates
