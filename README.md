@@ -39,7 +39,38 @@ Sources:
 
 ## update plan
 As of July 10, 2024, what I am going to add in the next update is:
-1. vectorcloud using pinecone
-2. deployable via streamlit so user would provide their own api keys (or given api keys)
+1. Vectorcloud using Pinecone for private knowledge/ ground-truth
+2. deployable via Streamlit so users would provide their own API keys (or given API keys)
+
+
+# Main.py
+This uses Streamlit for UI and allows users to try out various AI apps I built with LangChain. 
+
+It looks like this:
+
+<img width="1182" alt="Screenshot 2024-07-10 at 6 39 57 PM" src="https://github.com/leezorba/leah/assets/95986526/be323f06-0bd4-4f3a-a215-8b4d7c7ee065">
+
+
+It offers the current functionalities:
+
+DocumentGPT: Welcome! Use this chatbot to ask questions about your files! Upload your documents on the sidebar.
+
+PrivateGPT: You can ask any questions about the documents you upload on the sidebar. This is private, so you don't even need an internet connection!
+
+QuizGPT: Welcome to QuizGPT! Leah will make a quiz from Wikipedia articles or files you upload to test your knowledge and help you study. Start by uploading a file or searching on Wikipedia in the sidebar.
+
+SiteGPT: Ask questions about a website's content. Start by writing the URL of the website on the sidebar.
+
+MeetingGPT: Welcome to MeetingGPT! Upload a video, and we will give you a transcript, a summary, and a chatbot to ask any questions about it. Start by uploading a video file in the sidebar.
+
+InvestorGPT: Enter the name of a company whose stock interests you, and we will conduct the research for you.
+
+## update plan
+As of July 10, 2024, what I am going to add in the next update is:
+1. Add a session memory to all applicable apps (currently only DocumentGPT has the chat memory)
+2. Have users provide their own or given API keys.
+
+
+
 
 
