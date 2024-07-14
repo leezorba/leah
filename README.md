@@ -1,3 +1,7 @@
+# If you'd like to see an actual app built on these codes:
+Visit https://leah-v2.streamlit.app/ 
+
+
 # llama_rag.ipynb:
 It implements agentic rag with LangChain and LangGraph. The model could be easily swapped between local LLMs such as llama3 and popular LLMs like gpt3.5-turbo.
 
